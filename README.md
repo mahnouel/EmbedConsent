@@ -14,7 +14,7 @@ postpone embed loading until user gives consent
   <button class="js-embed__opener">Okay</button>
 </article>
 ```
-The `data-embed-id` attribute can be used to set a cookie if the user gives consent. After that the embed permission request won't show itself for the next 90 days.
+The `data-embed-id` attribute can be used to set a cookie when the user gives consent. After that the embed permission request won't show itself for the next 90 days.
 
 ```js
 import EmbedConsent from 'embed-consent'
