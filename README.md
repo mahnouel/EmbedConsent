@@ -4,7 +4,7 @@ postpone embed loading until user gives consent
 
 ## Installation
 
-```npm install embed-consent```
+`npm install embed-consent` [![npm](https://img.shields.io/npm/v/embed-consent.svg?style=flat-square)](https://www.npmjs.com/package/embed-consent)
 
 ## Usage
 
@@ -23,4 +23,4 @@ const embed = new EmbedConsent()
 embed.enable()
 ```
 
-[![npm](https://img.shields.io/npm/v/embed-consent.svg?style=flat-square)](https://www.npmjs.com/package/embed-consent)
+
