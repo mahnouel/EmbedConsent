@@ -1,6 +1,6 @@
 {
   "name": "embed-consent",
-  "version": "0.1.0",
+  "version": "0.0.5",
   "description": "Before loading an embed, users are able to give consent",
   "main": "embed-consent.js",
   "scripts": {
