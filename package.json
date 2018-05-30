@@ -1,0 +1,28 @@
+{
+  "name": "embed-consent",
+  "version": "1.2.0",
+  "description": "Before loading an embed, users are able to give consent",
+  "main": "embed-consent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postversion": "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahnouel/EmbedConsent.git"
+  },
+  "keywords": [
+    "embed",
+    "consent",
+    "privacy"
+  ],
+  "author": "Manuel K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahnouel/EmbedConsent/issues"
+  },
+  "homepage": "https://github.com/mahnouel/EmbedConsent#readme",
+  "dependencies": {
+    "js-cookie": "^2.2.0"
+  }
+}
