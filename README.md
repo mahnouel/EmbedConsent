@@ -12,7 +12,7 @@ postpone embed loading until user gives consent
 
 ```html
 <article class="js-embed" data-embed-src="https://www.youtube.com/embed/flLc6LmAG6c">
-  Please confirm you like to load this YouTube video:
+  Please confirm you want to load this YouTube video:
   <button class="js-embed__opener">Okay</button>
 </article>
 ```
